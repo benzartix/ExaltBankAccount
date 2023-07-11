@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4vgcZtFOf+HliknKHycVt/5QiQxAWGcw64jeprNODzaTFkmWE+kEPkVJNmoF0XkrARLZxClD+tUqYvaRAe8cw==",
+  "success": true,
+  "projectFilePath": "C:\\BankProjet\\Exalt\\BankApplication2022\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benza\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWlq3UMCacMQIuJEtlnqiY7dgd94YV3tS3szbiivvSMPlN5MMuYGRvYuH168ruyTphkVh17+SXOnvdkEi9Apow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benza\\source\\repos\\BankApplication2022\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benza\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
